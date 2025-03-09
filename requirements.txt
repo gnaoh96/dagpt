@@ -12,3 +12,7 @@ tiktoken
 tabulate
 python-dotenv
 langchain-google-genai
+
+# install langchain ollama for local llm deployment
+langchain-ollama
+openpyxl # to read .xlsx file
